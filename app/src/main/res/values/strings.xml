@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Group 8 - ACTIVITY</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="calculateBMI">Calculate BMI</string>
+
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+
+</resources>
